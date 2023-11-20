@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Travel-Website/static/css/main.9cd13b6a.css",
+    "main.js": "/Travel-Website/static/js/main.6c222cdb.js",
+    "static/media/japan2.jpg": "/Travel-Website/static/media/japan2.ab53253efd88a18c8b6c.jpg",
+    "index.html": "/Travel-Website/index.html",
+    "main.9cd13b6a.css.map": "/Travel-Website/static/css/main.9cd13b6a.css.map",
+    "main.6c222cdb.js.map": "/Travel-Website/static/js/main.6c222cdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cd13b6a.css",
+    "static/js/main.6c222cdb.js"
+  ]
+}
