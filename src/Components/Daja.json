@@ -1,0 +1,44 @@
+[
+    {
+        "source" : "./imgs/japan.jpg",
+        "title"  : "Japan",
+        "time" : "4 Nights, 3 Days",
+        "reviews" : "4.8",
+        "price": "$350"
+    },
+    {
+        "source" : "./imgs/Maldives.jpg",
+        "title"  : "Maldives",
+        "time" : "5 Nights, 4 Days",
+        "reviews" : "4.7",
+        "price": "$400"
+    },
+    {
+        "source" : "./imgs/italy.jpg",
+        "title"  : "Italy",
+        "time" : "4 Nights, 3 Days",
+        "reviews" : "4.5",
+        "price": "$350"
+    },
+    {
+        "source" : "./imgs/United Kingdom.jpg",
+        "title"  : "Costa Rica",
+        "time" : "3 Nights, 2 Days",
+        "reviews" : "4.4",
+        "price": "$450"
+    },
+    {
+        "source" : "./imgs/Australia.jpg",
+        "title"  : "Australia",
+        "time" : "4 Nights, 3 Days",
+        "reviews" : "4.3",
+        "price": "$250"
+    },
+    {
+        "source" : "./imgs/Iceland.jpg",
+        "title"  : "Iceland",
+        "time" : "3 Nights, 2 Days",
+        "reviews" : "4.1",
+        "price": "$300"
+    }
+]
