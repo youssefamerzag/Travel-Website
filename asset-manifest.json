@@ -1,14 +1,20 @@
 {
   "files": {
-    "main.css": "/Travel-Website/static/css/main.9cd13b6a.css",
-    "main.js": "/Travel-Website/static/js/main.6c222cdb.js",
+    "main.css": "/Travel-Website/static/css/main.2f2d5e3e.css",
+    "main.js": "/Travel-Website/static/js/main.5da9a578.js",
     "static/media/japan2.jpg": "/Travel-Website/static/media/japan2.ab53253efd88a18c8b6c.jpg",
+    "static/media/italy.jpg": "/Travel-Website/static/media/italy.eac9aede5b910665d3e4.jpg",
+    "static/media/United Kingdom.jpg": "/Travel-Website/static/media/United Kingdom.bb0ee9c6871124a79778.jpg",
+    "static/media/Iceland.jpg": "/Travel-Website/static/media/Iceland.46173544c290d6d68209.jpg",
+    "static/media/Australia.jpg": "/Travel-Website/static/media/Australia.67f6a2327675646253c7.jpg",
+    "static/media/japan.jpg": "/Travel-Website/static/media/japan.3006625e472f0b619e51.jpg",
+    "static/media/Maldives.jpg": "/Travel-Website/static/media/Maldives.96f4415540e7b60589d6.jpg",
     "index.html": "/Travel-Website/index.html",
-    "main.9cd13b6a.css.map": "/Travel-Website/static/css/main.9cd13b6a.css.map",
-    "main.6c222cdb.js.map": "/Travel-Website/static/js/main.6c222cdb.js.map"
+    "main.2f2d5e3e.css.map": "/Travel-Website/static/css/main.2f2d5e3e.css.map",
+    "main.5da9a578.js.map": "/Travel-Website/static/js/main.5da9a578.js.map"
   },
   "entrypoints": [
-    "static/css/main.9cd13b6a.css",
-    "static/js/main.6c222cdb.js"
+    "static/css/main.2f2d5e3e.css",
+    "static/js/main.5da9a578.js"
   ]
 }
