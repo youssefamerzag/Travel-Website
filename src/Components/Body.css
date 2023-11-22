@@ -1,4 +1,6 @@
-
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 .popular {
     margin: 50px;
     font-size: 40px;
@@ -18,7 +20,7 @@
 }
 
 
-#post {
+.post {
     width: 450px;
     margin: 30px;
     border: none;
@@ -27,13 +29,13 @@
     transition: 0.2s;
 }
 
-#post:hover {
+.post:hover {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     transform: scale(1.1);
     transition: 0.2s;
 }
 
-#post img {
+.post img {
     border-radius: 10px;
 }
 
@@ -67,7 +69,7 @@
     margin-right: 5px;
 }
 
-#post button {
+.post button {
     width: 170px;
     padding: 15px;
     background-color: rgb(255, 255, 255);
@@ -80,15 +82,106 @@
     transition: 0.2s;
 }
 
-#post button:hover {
+.post button:hover {
     background-color: rgb(0, 130, 206);
     border: 3px solid rgb(0, 130, 206);
     color: white;
     transition: 0.2s;
 }
 
+.postview {
+    display: flex;
+    background: #eeee;
+    border-radius: 10px;
+    margin: 40px;
+    margin-top: 20px;
+    box-shadow: rgba(0, 0, 0, 0.377) 0px 3px 7px;
+}
+
+.viewimg {
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.postinfo {
+    display: block;
+    margin-top: 80px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    padding-right: 10px;
+}
+
+.viewtitle {
+    font-size: 50px;
+    margin-top: -25px;
+    margin-bottom: -15px;
+}
+
+.viewprice {
+    font-size: 30px;
+    width: 150px;
+    text-align: center;
+    background-color: rgb(249, 178, 255);
+    font-weight: 900;
+    color: rgb(63, 63, 63);
+}
+
+.viewtime {
+    font-size: 25px;
+}
+
+.viewRating {
+    margin-top: 20px;
+    display: inline-flex;
+    margin-bottom: -15px;
+}
+
+.viewRating p{
+    margin-top: 2px;
+}
+
+.viewdescription {
+    font-size: 18px;
+}
+
+.reservebtn {
+    width: 200px;
+    padding: 15px;
+    background-color: rgb(0, 130, 206);
+    border: 3px solid rgb(0, 130, 206);
+    border-radius: 5px;
+    color: white;
+    font-size: 17px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    transition: 0.2s;
+}
+
+.reservebtn:hover {
+    background-color: rgb(255, 255, 255);
+    border: 3px solid rgb(0, 162, 255);
+    color: rgb(0, 110, 173);
+    transition: 0.2s;
+}
+
+.back {
+    width: 200px;
+    padding: 15px;
+    background-color: rgb(0, 130, 206);
+    border: 3px solid rgb(0, 130, 206);
+    border-radius: 5px;
+    color: white;
+    font-size: 17px;
+    font-weight: 700;
+    margin-bottom: 2px;
+    margin-left: 40px;
+    margin-top: 20px;
+    transition: 0.2s;
+}
+
+
 @media only screen and (max-width: 768px) {
-    /* Common styles for all screen sizes */
+   
 .popular {
 
     margin: 20px;
@@ -130,7 +223,7 @@
     margin-right: 3px;
 }
 
-#post button {
+.post button {
     width: 150px; 
     padding: 12px;
     font-size: 15px;
@@ -138,5 +231,40 @@
     transition: background-color 0.2s, border 0.2s, color 0.2s;
 }
 
+.viewimg {
+    width: 300px;
+}
 
+.postview{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    margin-top: 20px;
+}
+
+
+.viewtitle {
+    font-size: 25px;
+}
+
+.viewprice {
+    font-size: 18px;
+}
+
+.viewtime {
+    font-size: 16px;
+}
+
+.viewRating p {
+    font-size: 14px;
+    margin-right: 2px;
+}
+
+.reservebtn,
+.back {
+    width: 120px;
+    padding: 10px;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
 }
