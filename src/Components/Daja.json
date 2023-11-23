@@ -5,7 +5,7 @@
         "title"  : "Japan",
         "time" : "4 Nights, 3 Days",
         "reviews" : "4.8",
-        "price": "$350",
+        "price": 350,
         "description": "Experience the vibrant culture of Japan with a visit to Tokyo's bustling streets, the historic sites of Kyoto, and the iconic Mount Fuji. Indulge in a sushi-making class, participate in a traditional tea ceremony, and witness the excitement of a sumo wrestling match. Don't miss the breathtaking beauty of cherry blossom season and the efficiency of the famous bullet trains."
     },
     {   
@@ -14,7 +14,7 @@
         "title"  : "Maldives",
         "time" : "5 Nights, 4 Days",
         "reviews" : "4.7",
-        "price": "$400",
+        "price": 400,
         "description": "Escape to the paradise of the Maldives, where crystal-clear waters and overwater bungalows await. Explore the capital city, Malé, relax on the pristine beaches of Biyadhoo Island, and experience the vibrant marine life while snorkeling. Immerse yourself in the luxury of overwater bungalows and enjoy the serenity of Thulusdhoo."
     },
     {   
@@ -23,7 +23,7 @@
         "title"  : "Italy",
         "time" : "4 Nights, 3 Days",
         "reviews" : "4.5",
-        "price": "$350",
+        "price": 350,
         "description": "Discover the rich history and art of Italy with visits to the Colosseum, the enchanting canals of Venice, and the iconic Leaning Tower of Pisa. Indulge in wine tasting in Tuscany, take a romantic gondola ride in Venice, and explore the ancient ruins of the Roman Forum. Italy awaits with its cultural treasures and delicious cuisine."
     },
     {   
@@ -32,7 +32,7 @@
         "title"  : "Costa Rica",
         "time" : "3 Nights, 2 Days",
         "reviews" : "4.4",
-        "price": "$450",
+        "price": 450,
         "description": "Experience the wonders of Costa Rica's natural beauty with visits to Arenal Volcano, the Monteverde Cloud Forest, and Manuel Antonio National Park. Enjoy thrilling activities like ziplining, wildlife watching, and relaxing in natural hot springs. Costa Rica is a paradise for nature lovers and those seeking adventure in stunning landscapes."
     },
     {   
@@ -41,7 +41,7 @@
         "title"  : "Australia",
         "time" : "4 Nights, 3 Days",
         "reviews" : "4.3",
-        "price": "$250",
+        "price": 250,
         "description": "Explore the diverse landscapes of Australia, from the iconic Sydney Opera House to the natural wonders of the Great Barrier Reef and the mystical Uluru. Engage in thrilling activities like surfing in Bondi Beach, snorkeling in the Great Barrier Reef, and climbing the Sydney Harbor Bridge. Australia offers a unique blend of wildlife, beaches, and adventure."
     },
     {   
@@ -50,7 +50,7 @@
         "title"  : "Iceland",
         "time" : "3 Nights, 2 Days",
         "reviews" : "4.1",
-        "price": "$300",
+        "price": 300,
         "description": "Embark on a journey to Iceland, where geothermal wonders and unique landscapes await. Explore the Golden Circle, relax in the Blue Lagoon, and marvel at the Jökulsárlón Glacier Lagoon. Chase the mesmerizing Northern Lights, soak in natural hot springs, and experience the thrill of glacier hiking. Iceland is a land of natural beauty and adventure."
     },
     {
@@ -59,7 +59,7 @@
         "title": "France",
         "time": "5 Nights, 4 Days",
         "reviews": "4.6",
-        "price": "$1500",
+        "price": 1500,
         "description": "Indulge in the romance and charm of France with a visit to Paris, the City of Love. Explore iconic landmarks like the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral. Enjoy a leisurely stroll along the Seine River and savor delicious French cuisine in charming bistros. France is a destination that combines art, history, and a touch of magic."
     },
     {
@@ -68,7 +68,7 @@
         "title": "Spain",
         "time": "5 Nights, 4 Days",
         "reviews": "4.7",
-        "price": "$1600",
+        "price": 1600,
         "description": "Discover the beauty of Spain with a visit to its vibrant cities and scenic landscapes. Explore the historic streets of Barcelona, admire the architectural wonders of Gaudi, and relax on the sunny beaches of Costa del Sol. Indulge in delicious tapas, experience flamenco dancing, and immerse yourself in the rich culture of Spain."
     },
     {
@@ -77,6 +77,6 @@
         "title": "Thailand",
         "time": "6 Nights, 5 Days",
         "reviews": "4.3",
-        "price": "$1900",
+        "price": 1900,
         "description": "Experience the enchanting beauty of Thailand with visits to Bangkok, Chiang Mai, and the pristine beaches of Phuket. Explore ancient temples, indulge in delicious street food, and participate in traditional Thai ceremonies. Relax on the sandy shores, enjoy snorkeling in clear waters, and witness the vibrant nightlife. Thailand offers a perfect blend of culture and tropical paradise."
     }]
